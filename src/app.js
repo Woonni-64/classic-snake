@@ -1,6 +1,6 @@
 import { GRID_SIZE, createGame, positionKey, tick, turn } from "./snake.js";
 
-const TICK_MS = 120;
+const TICK_MS = 220;
 const keyDirections = new Map([
   ["ArrowUp", "up"],
   ["w", "up"],

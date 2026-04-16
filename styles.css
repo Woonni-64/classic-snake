@@ -86,11 +86,12 @@ h1 {
 }
 
 .cell.snake {
-  background: #1f6f4a;
+  background: #0f5f3d;
+  border-color: rgba(255, 255, 255, 0.32);
 }
 
 .cell.head {
-  background: #13442d;
+  background: #082c1d;
 }
 
 .cell.food {
